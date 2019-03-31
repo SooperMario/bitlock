@@ -1,0 +1,17 @@
+This is the micro:bit, lock and key, aka, the bitlock
+
+The keyCodeFinal is the hex code for the micro bit to make it into a lock
+The user can input there own passcode for the lock and it waits to be unlock
+
+The lockCodeFinal is the hex code for the micro bit to make it into a key
+The user can type in a passcode to unlock the lock and can be reset incase 
+the user input the incorrect key
+
+The bitlock could be connected using the output pins to create things such as 
+physichal podlocks or code to lock a computer system or things like that with 
+addition code
+
+Made by:
+Mario
+Minsung
+Rob
